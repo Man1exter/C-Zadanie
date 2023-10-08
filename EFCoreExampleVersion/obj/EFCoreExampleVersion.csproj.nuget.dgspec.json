@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\mperz\\Desktop\\C#Zadanie\\EFCoreExample\\EFCoreExample.csproj": {}
+    "C:\\Users\\mperz\\Desktop\\C#Zadanie\\EFCoreExampleVersion\\EFCoreExampleVersion.csproj": {}
   },
   "projects": {
-    "C:\\Users\\mperz\\Desktop\\C#Zadanie\\EFCoreExample\\EFCoreExample.csproj": {
+    "C:\\Users\\mperz\\Desktop\\C#Zadanie\\EFCoreExampleVersion\\EFCoreExampleVersion.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\mperz\\Desktop\\C#Zadanie\\EFCoreExample\\EFCoreExample.csproj",
-        "projectName": "EFCoreExample",
-        "projectPath": "C:\\Users\\mperz\\Desktop\\C#Zadanie\\EFCoreExample\\EFCoreExample.csproj",
+        "projectUniqueName": "C:\\Users\\mperz\\Desktop\\C#Zadanie\\EFCoreExampleVersion\\EFCoreExampleVersion.csproj",
+        "projectName": "EFCoreExampleVersion",
+        "projectPath": "C:\\Users\\mperz\\Desktop\\C#Zadanie\\EFCoreExampleVersion\\EFCoreExampleVersion.csproj",
         "packagesPath": "C:\\Users\\mperz\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\mperz\\Desktop\\C#Zadanie\\EFCoreExample\\obj\\",
+        "outputPath": "C:\\Users\\mperz\\Desktop\\C#Zadanie\\EFCoreExampleVersion\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\mperz\\AppData\\Roaming\\NuGet\\NuGet.Config",

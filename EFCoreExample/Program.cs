@@ -11,7 +11,7 @@ namespace EFCoreExample
             using (var context = new BlogContext())
             {
                 // Create - Dodawanie nowego bloga
-                var newBlog = new Blog { Name = "Moje blogowanie" };
+                var newBlog = new Blog { Name = "Moje blogowanie Mariusz Perzynski" };
                 context.Blogs.Add(newBlog);
                 context.SaveChanges();
 
